@@ -1,0 +1,20 @@
+test git function;
+
+git clone
+git status
+
+git add ./-A/ index.html 
+
+git commit -m 'index.html added'
+
+git push //added to the online repo
+
+//Daily workflow
+
+git pull
+git status
+git add .
+
+git commit -m "message"
+
+git push
